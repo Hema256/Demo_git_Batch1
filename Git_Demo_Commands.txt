@@ -2,3 +2,4 @@ Git Commands
 
 1.Git Status
 2.Git Init
+3.git commit
